@@ -1,4 +1,8 @@
 {
-  "endpoint": false,
+  "responseSuccessful": true,
+  "responseBody":{
+      "endpoint": false,
   "functionality": false
+  },
+  "inherit": true
 }
