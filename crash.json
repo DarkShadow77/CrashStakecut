@@ -2,7 +2,7 @@
   "responseSuccessful": true,
   "responseBody":  {
     "endpoint": false,
-    "functionality": true
+    "functionality": false
   },
   "inherit": true
 }
