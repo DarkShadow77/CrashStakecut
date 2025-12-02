@@ -1,8 +1,8 @@
 {
   "responseSuccessful": true,
   "responseBody":  {
-    "endpoint": false,
-    "functionality": false
+    "endpoint": true,
+    "functionality": true
   },
   "inherit": true
 }
